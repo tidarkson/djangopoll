@@ -1,0 +1,8 @@
+li {
+    color:aqua;
+}
+body {
+    background: white url("images/background.png") no-repeat;
+    align-items: center;
+    justify-content: center;
+}
